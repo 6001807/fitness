@@ -21,4 +21,8 @@ export class Application {
             profile.style.display = "none";
         }
     }
+
+    login() {
+        
+    }
 }
