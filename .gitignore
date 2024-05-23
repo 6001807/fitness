@@ -80,4 +80,3 @@ dist/
 
 # DynamoDB Local files
 .dynamodb/
-*.sqlite3
